@@ -1,9 +1,9 @@
 ## 💡 About Me
 
 - 💻 Aspiring engineer passionate about **Autonomous Robotics** and **Machine Learning**
-- 🧠 Interested in AI-powered solutions for real-world impact
+- 🧠 Interested in using AI for real-world impact
 - 🌱 Always learning, building, and collaborating!
----
+
 
 ## 🚀 Featured Projects
 
@@ -12,7 +12,7 @@
 
 - **VibeMate:**  
  AI-powered roommate matching for women’s co-living spaces
----
+
 
 ## ⚡ Skills & Tools
 
@@ -21,14 +21,19 @@
 - **Web:** Flask, Streamlit, JavaScript
 - **Tools:** Git, Figma
 
----
+  
+## 📚 Currently Learning  
+
+- 👀 Diving into **Computer Vision** (image processing, object detection, OpenCV)  
+- 🤖 Exploring **deep learning** for advanced ML models 
+
 
 ## 🌱 Fun Fact  
 - 🎨 Outside tech, I love **graphic design** and creative visuals  
 - 🏎️ I’m a huge **Formula 1 enthusiast**  
 - ☕ Coffee + late-night coding = best combo  
 
----
+
 
 ## 📫 Connect with me
 
