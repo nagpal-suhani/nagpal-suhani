@@ -19,12 +19,12 @@ I'm particularly interested in computer vision, autonomous systems, and the inte
 
 ## 🚀 Selected Projects
 
-### 🌍 Earth Resource Monitor
+### 🌍 [Earth Resource Monitor]{https://github.com/nagpal-suhani/genai-erm}
 A geospatial intelligence project combining satellite imagery, semantic segmentation, and forecasting to analyse land-use patterns and explore environmental change.
 
 **Focus:** Remote sensing, computer vision, deep learning, geospatial data, and ML-backed APIs.
 
-### ✈️ AERISK
+### ✈️ [AERISK]{https://github.com/nagpal-suhani/AERISK}
 An aviation predictive-maintenance project focused on aircraft sensor analytics, fault classification, and remaining-useful-life estimation.
 
 **Focus:** Predictive maintenance, time-series modelling, XGBoost, LSTM networks, and model interpretability.
