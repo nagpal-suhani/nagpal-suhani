@@ -77,7 +77,7 @@ Git · GitHub · Docker · GitHub Actions · Experiment Tracking · CI/CD
 
 I'm interested in collaborating on meaningful AI/ML projects, applied research, and engineering problems involving intelligent systems.
 
-- **LinkedIn:** [Connect with me](https://www.linkedin.com/in/suhani-nagpal072/)
+- **LinkedIn:** [Connect with me](https://www.linkedin.com/in/suhani-nagpal-388b68291/)
 - **GitHub:** [@nagpal-suhani](https://github.com/nagpal-suhani)
 - **Email:** nagpal.suhani30@gmail.com
 
